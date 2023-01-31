@@ -1,6 +1,6 @@
 body {
   height: 100vh; /* viewport 전체 범위 */
-  background-image: url("/images/bg.jpg");
+  background-image: url("./images/bg.jpg");
   background-size: cover; /* 더 넓은 부분을 기준으로 맞춤 */
   background-repeat: no-repeat;
   background-attachment: fixed; /* 스크롤해도 배경이미지는 고정 */
